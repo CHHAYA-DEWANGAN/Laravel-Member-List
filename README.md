@@ -23,4 +23,3 @@ INSERT INTO Members (CreatedDate, Name, ParentId) VALUES
 ('2024-01-01 17:00:00', 'Jill Green', 4),
 ('2024-01-01 18:00:00', 'Joe Blue', 5),
 ('2024-01-01 19:00:00', 'Janet Yellow', 6);
-[22:06, 25/6/2024] Shadow Dewangan: C
